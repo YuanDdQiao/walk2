@@ -1,0 +1,20 @@
+{
+	"ImportPath": "walk2",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/lxn/win",
+			"Rev": "9c04a4e8d0b8dd261f82ac35fb3d3d298c679d20"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "6ec70d6a5542cba804c6d16ebe8392601a0b7b60"
+		},
+		{
+			"ImportPath": "gopkg.in/Knetic/govaluate.v3",
+			"Comment": "v3.0.0",
+			"Rev": "d216395917cc49052c7c7094cf57f09657ca08a8"
+		}
+	]
+}
