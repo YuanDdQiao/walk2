@@ -9,7 +9,7 @@ package walk
 import (
 	"syscall"
 
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 // BindingValueProvider is the interface that a model must implement to support

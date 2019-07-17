@@ -14,7 +14,7 @@ import (
 
 	"golang.org/x/sys/windows"
 
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 var defaultIconSize Size

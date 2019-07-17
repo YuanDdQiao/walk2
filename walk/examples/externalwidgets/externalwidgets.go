@@ -11,7 +11,7 @@ import (
 import (
 	"github.com/YuanDdQiao/walk2/walk"
 	. "github.com/YuanDdQiao/walk2/walkdeclarative"
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 const myWidgetWindowClass = "MyWidget Class"

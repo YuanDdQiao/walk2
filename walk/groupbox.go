@@ -11,7 +11,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 const groupBoxWindowClass = `\o/ Walk_GroupBox_Class \o/`

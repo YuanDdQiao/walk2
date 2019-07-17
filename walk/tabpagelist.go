@@ -7,7 +7,7 @@
 package walk
 
 import (
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 type tabPageListObserver interface {

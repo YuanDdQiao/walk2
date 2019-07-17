@@ -13,7 +13,7 @@ import (
 	"unsafe"
 )
 
-import "github.com/lxn/win"
+import "github.com/YuanDdQiao/walk2/win"
 
 type DateEdit struct {
 	WidgetBase

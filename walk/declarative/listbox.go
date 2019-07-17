@@ -12,7 +12,7 @@ import (
 
 import (
 	"github.com/YuanDdQiao/walk2/walk"
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 type ListBox struct {

@@ -11,7 +11,7 @@ import (
 )
 
 import (
-	"github.com/lxn/win"
+	"github.com/YuanDdQiao/walk2/win"
 )
 
 const mainWindowWindowClass = `\o/ Walk_MainWindow_Class \o/`
